@@ -18,3 +18,7 @@ WebExtension packages for every need, by [@fregante](https://github.com/fregante
 * [webext-content-script-ping](https://github.com/fregante/webext-content-script-ping) - One-file interface to detect whether your content script have loaded.
 * [webext-inject-on-install](https://github.com/fregante/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed.
 
+Also check out:
+
+* [Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
+* [promise-fun](https://github.com/sindresorhus/promise-fun) - The inspiration for this repo.
