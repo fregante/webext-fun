@@ -22,3 +22,10 @@ Also check out:
 
 * [Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 * [promise-fun](https://github.com/sindresorhus/promise-fun) - The inspiration for this repo.
+
+Examples of personal Web Extensions using the patterns above:
+
+* [refined-github](https://github.com/sindresorhus/refined-github) Browser extension that simplifies the GitHub interface and adds useful features
+* [GhostText](https://github.com/fregante/GhostText) 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+* [npmhub](https://github.com/npmhub/npmhub) 🔎 A browser extension to explore npm dependencies on GitHub repos
+* [github-issue-link-status](https://github.com/fregante/github-issue-link-status) Colorize issue and PR links to see their status (open, closed, merged)
