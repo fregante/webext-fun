@@ -2,6 +2,8 @@
 
 WebExtension packages for every need, by [@fregante](https://github.com/fregante).
 
+![Sand in your node_modules folder](https://user-images.githubusercontent.com/1402241/127905928-829c007b-0b04-4162-99b5-a4fd2e6305bf.JPG)
+
 * [content-scripts-register-polyfill](https://github.com/fregante/content-scripts-register-polyfill) - Polyfill for browser.contentScripts.register() for Chrome.
 * [webext-detect-page](https://github.com/fregante/webext-detect-page) - Detects where the current browser extension code is being run.
 * [webext-patterns](https://github.com/fregante/webext-patterns) - Convert the patterns of your WebExtension manifest to regex
