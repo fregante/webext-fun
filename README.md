@@ -17,6 +17,7 @@ WebExtension packages for every need, by [@fregante](https://github.com/fregante
 * [webext-options-sync-per-domain](https://github.com/fregante/webext-options-sync-per-domain) - Helps you manage and autosave your extension's options, separately for each additional permission
 * [webext-storage-cache](https://github.com/fregante/webext-storage-cache) - Map-like promised cache storage with expiration. 
 * [webext-base-css](https://github.com/fregante/webext-base-css) - Extremely minimal stylesheet/setup for Web Extensions’ options pages (also dark mode)
+* [webext-tools](https://github.com/fregante/webext-tools) - Utility functions for Web Extensions
 * [webext-content-script-ping](https://github.com/fregante/webext-content-script-ping) - One-file interface to detect whether your content script have loaded.
 * [webext-inject-on-install](https://github.com/fregante/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed.
 
