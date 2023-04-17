@@ -13,7 +13,8 @@ WebExtension packages for every need, by [@fregante](https://github.com/fregante
 * [content-scripts-register-polyfill](https://github.com/fregante/content-scripts-register-polyfill) - Polyfill for browser.contentScripts.register() for Chrome.
 * [webext-detect-page](https://github.com/fregante/webext-detect-page) - Detects where the current browser extension code is being run.
 * [webext-patterns](https://github.com/fregante/webext-patterns) - Convert the patterns of your WebExtension manifest to regex.
-* [webext-tools](https://github.com/fregante/webext-tools) - Utility functions for Web Extensions
+* [webext-tools](https://github.com/fregante/webext-tools) - Utility functions for Web Extensions.
+* [webext-events](https://github.com/fregante/webext-events) - High-level events and utilities for events in Web Extensions.
 * [webext-content-scripts](https://github.com/fregante/webext-content-scripts) - Utility functions to inject content scripts from a WebExtension.
 * [web-ext-submit](https://github.com/fregante/web-ext-submit) - Wrapper around Mozilla’s web-ext to submit extensions to AMO.
 * [webext-additional-permissions](https://github.com/fregante/webext-additional-permissions) - Get any optional permissions that users have granted you.
