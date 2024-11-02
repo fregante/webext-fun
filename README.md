@@ -14,6 +14,7 @@ WebExtension packages for every need, by [@fregante](https://github.com/fregante
 * [webext-detect](https://github.com/fregante/webext-detect) - Detects where the current browser extension code is being run.
 * [webext-tools](https://github.com/fregante/webext-tools) - Utility functions for Web Extensions.
 * [webext-events](https://github.com/fregante/webext-events) - High-level events and utilities for events in Web Extensions.
+* [webext-msg](https://github.com/fregante/webext-msg) - Simple message handler
 * [webext-content-scripts](https://github.com/fregante/webext-content-scripts) - Utility functions to inject content scripts from a WebExtension.
 * [webext-permissions](https://github.com/fregante/webext-permissions) - Get any optional permissions that users have granted you.
 
