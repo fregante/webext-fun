@@ -26,6 +26,9 @@ WebExtension packages for every need, by [@fregante](https://github.com/fregante
 * [webext-permission-toggle](https://github.com/fregante/webext-permission-toggle) - Browser-action context menu to request permission for the current tab.
 * [webext-inject-on-install](https://github.com/fregante/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed.
 * [webext-base-css](https://github.com/fregante/webext-base-css) - Extremely minimal stylesheet/setup for Web Extensions’ options pages (also dark mode)
+* [webext-active-tab](https://github.com/fregante/webext-active-tab) - Track `activeTab` permission; automatically inject content scripts.
+* [webext-bugs](https://github.com/fregante/webext-bugs) - Useful fixes and workarounds for browser extension shortcomings.
+* 
 
 <!--
 
