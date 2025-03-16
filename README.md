@@ -28,7 +28,6 @@ WebExtension packages for every need, by [@fregante](https://github.com/fregante
 * [webext-base-css](https://github.com/fregante/webext-base-css) - Extremely minimal stylesheet/setup for Web Extensions’ options pages (also dark mode)
 * [webext-active-tab](https://github.com/fregante/webext-active-tab) - Track `activeTab` permission; automatically inject content scripts.
 * [webext-bugs](https://github.com/fregante/webext-bugs) - Useful fixes and workarounds for browser extension shortcomings.
-* 
 
 <!--
 
